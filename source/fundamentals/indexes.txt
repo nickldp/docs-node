@@ -330,4 +330,4 @@ indexes in a collection:
    :language: js
    :start-after: start-listIndexes-example
    :end-before: end-listIndexes-example
-   :dedent:
+   :dedent: 
